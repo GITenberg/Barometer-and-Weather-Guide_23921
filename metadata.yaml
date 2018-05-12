@@ -13,6 +13,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23921#Barometer-and-Weather-Guide
 gutenberg_issued: '2007-12-19'
 gutenberg_type: Text
 identifiers:
